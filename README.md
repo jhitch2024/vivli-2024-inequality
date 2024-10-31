@@ -1,4 +1,4 @@
-This GitHub respository contains the data files and R script necessary to replicate the distributional copula analysis of the relationships between antibiotic consumption, Meropenem resistance, and income for the Vivli 2024 student data challenge submission.
+This GitHub respository contains the data files and R script necessary to replicate the distributional copula analysis of the relationships between country-level income and antibiotic consumption and Meropenem resistance in Klebsiella pneumoniae bloodstream isolates, for the Vivli 2024 student data challenge submission.
 
 There are four data files
 1. "2024_05_28 atlas_antibiotics.csv" is the raw ATLAS surveillance data.
